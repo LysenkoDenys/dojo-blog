@@ -76,14 +76,14 @@
   font-weight: 900;
 }
 
-/* .blog-details button {
+.blog-details button {
   background: #f1356d;
   color: #fff;
   border: 0;
   padding: 8px 8px 8px 8px;
   border-radius: 8px;
   cursor: pointer;
-} */
+}
 
 /* create new blog form */
 .create {
@@ -121,4 +121,12 @@
   padding: 8px 8px 8px 8px;
   border-radius: 8px;
   cursor: pointer;
+}
+
+/* not-found */
+.not-found p {
+  margin: 10px 0px 10px 0px;
+  font-size: 30px;
+  font-weight: 600;
+  color: #f1356d;
 }
